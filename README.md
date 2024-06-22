@@ -16,6 +16,16 @@
 3. Once asked for the key, paste the key you copied into the text box, then press `Enter`
 - - The key refreshes every **24 hours**, you'll have to do this later
 
+### Usage 👋
+
+Copy and paste the script below in your executor to get started with Starry!
+
+```lua
+-- Running Version 1.1.0
+
+loadstring(game:HttpGet("https://github.com/mr-suno/Starry/blob/main/version/main.lua?raw=true"))()
+```
+
 ---
 
 ### Authors 📜
@@ -26,3 +36,15 @@
 
 * **[Jimmy](https://github.com/tropxzz) (@imanewma__n)**: Ideaist, help on Break In 2
 * **[Dawid](https://github.com/dawid-scripts)**: UI library, view his official repository: [dawid-scripts/Fluent](https://github.com/dawid-scripts/Fluent)
+
+---
+
+### Supported Games & Executors 🕹️
+
+1. Executors
+- - **Solara** (PC, Windows)
+  - Anything **macOS**, **Android** or **iOS**
+
+2. Supported Games
+- - **Tower of Hell** ─ 160+ Server Sided features.
+  - **Break In 2** ─ 30 Insane features.
