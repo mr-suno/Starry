@@ -35,7 +35,7 @@ loadstring(game:HttpGet("https://github.com/mr-suno/Starry/blob/main/version/mai
 ### Extra Credits
 
 * **[Jimmy](https://github.com/tropxzz) (@imanewma__n)**: Ideaist, little help on Break In 2
-* **[I ♥ Trojans](https://github.com/lettercount) (@kawaii_innitnotfound)**: Ideaist for Tower of Hell
+* **[DivinePaean](https://github.com/lettercount) (@kawaii_innitnotfound)**: Ideaist for Tower of Hell
 * **[Dawid](https://github.com/dawid-scripts)**: UI library, view his official repository: [dawid-scripts/Fluent](https://github.com/dawid-scripts/Fluent)
 
 ---
