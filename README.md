@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/mr-suno/Starry/assets/173532449/6ba40ef3-0acf-4500-a59e-806de26f9313" alt="image">
-  <br><br>
+
   <b>Powerful game-hub for overcoming Roblox games</b>
   <br><br>
   Star our repository to support our ad-free project, it helps me post future updates
