@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/mr-suno/Starry/assets/173532449/38ff029b-3817-4c4f-97a4-1065154a4a59" alt="image">
+  <img src="https://github.com/mr-suno/Starry/assets/173532449/6ba40ef3-0acf-4500-a59e-806de26f9313" alt="image">
   <br><br>
   <b>Powerful game-hub for overcoming Roblox games</b>
   <br><br>
