@@ -20,8 +20,6 @@
 Copy and paste the script below in your executor to get started with Starry!
 
 ```lua
--- Running Version 1.1.2
-
 loadstring(game:HttpGet("https://github.com/mr-suno/Starry/blob/main/version/main.lua?raw=true"))()
 ```
 
