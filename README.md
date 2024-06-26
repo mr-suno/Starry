@@ -23,6 +23,15 @@ Copy and paste the script below in your executor to get started with Starry!
 loadstring(game:HttpGet("https://github.com/mr-suno/Starry/blob/main/version/main.lua?raw=true"))()
 ```
 
+### Community 🌐
+
+Join our community of over 1,000 users, [over on Discord](https://discord.gg/XJMpTcyaUY)!
+
+- With benefits like:
+- - Latest Key Access 🔑
+  - Immedient Updates & News 📢
+  - Bug Reporting & More!
+
 ---
 
 ### Authors 📜
