@@ -10,7 +10,6 @@
 
 1. Join our official [Discord server](https://discord.gg/DDtKW3zF45)
 - - Find `#latest-key`, or click [here](https://discord.com/channels/1217389490663063583/1220620564163461171) to instantly view it
-  - For mobile users, manually type out the key or ask a moderator to paste it
 
 2. Join a supported game, and load Starry 💫
 3. Once asked for the key, paste the key you copied into the text box, then press `Enter`
