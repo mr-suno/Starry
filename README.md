@@ -25,7 +25,7 @@ loadstring(game:HttpGet("https://github.com/mr-suno/Starry/blob/main/version/mai
 
 ### Community 🌐
 
-Join our community of over 1,350 users, [over on Discord](https://discord.gg/XJMpTcyaUY)!
+Join our community of over 1,400 users, [over on Discord](https://discord.gg/XJMpTcyaUY)!
 
 - With benefits like:
 - - Latest Key Access 🔑
