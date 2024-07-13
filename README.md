@@ -3,7 +3,7 @@
 
   <b>Powerful game-hub for overcoming Roblox games</b>
   <br><br>
-  Star our repository to support our ad-free project, it helps me post future updates
+  Star our repository to support our project, it helps me post future updates
 </div>
 
 ### Key System 🔑
