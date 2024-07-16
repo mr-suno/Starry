@@ -1,4 +1,5 @@
 --[[
+
     Fuck off Frost <|:)
 
     This script has been licensed using Luarmor
@@ -11,7 +12,6 @@
       ___) | || (_| | |  | |  | |_| |
      |____/ \__\__,_|_|  |_|   \__, |
                                |___/ 
-
 
 ]]
 
