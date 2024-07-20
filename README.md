@@ -52,6 +52,7 @@ Join our community of over 1,500 users, [over on Discord](https://discord.gg/XJM
 
 1. Executors
 - - **Solara** (PC, Windows)
+  - **Wave** (Freemium, Premium)
   - Anything **macOS**, **Android** or **iOS**
 
 2. Supported Games
