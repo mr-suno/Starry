@@ -20,7 +20,7 @@
 Copy and paste the script below in your executor to get started with Starry!
 
 ```lua
-loadstring(game:HttpGet("https://cloudbin.org"))()
+loadstring(game:HttpGet("https://www.cloudbin.org"))()
 ```
 
 ### Community 🌐
