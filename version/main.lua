@@ -13,4 +13,8 @@
 
 ]]
 
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/089e8f5b8ac259500a44ccd0537ab253.lua"))()
+if string.find(string.lower(identifyexecutor()), "solara") then
+    loadstring(game:HttpGet("https://github.com/mr-suno/Starry/blob/main/version/backup.lua?raw=true"))()
+else
+    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/089e8f5b8ac259500a44ccd0537ab253.lua"))()
+end
