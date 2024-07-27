@@ -56,3 +56,4 @@ Join our community of over 1,500 users, [over on Discord](https://discord.gg/XJM
 2. Supported Games
 - - **Tower of Hell** ─ 160+ Server Sided features.
   - **Break In 2** ─ 30 Insane features.
+  - BETA **Murder Mystery 2** ─ Many Exclusive & Powerful features.
