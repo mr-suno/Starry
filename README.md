@@ -25,7 +25,7 @@ loadstring(game:HttpGet("https://www.cloudbin.org"))()
 
 ### Community 🌐
 
-Join our community of over 1,500 users, [over on Discord](https://discord.gg/XJMpTcyaUY)!
+Join our community of over 1,600 users, [over on Discord](https://discord.gg/XJMpTcyaUY)!
 
 - With benefits like:
 - - Latest Key Access 🔑
