@@ -9,7 +9,7 @@
 ### Key System 🔑
 
 1. Join our official [Discord server](https://discord.gg/DDtKW3zF45)
-- - Find `#latest-key`, or click [here](https://discord.com/channels/1217389490663063583/1220620564163461171) to instantly view it
+- - Find `#latest-key`, or click [here](https://discord.com/channels/1217389490663063583/1220620564163461171) and complete `1` ad.
 
 2. Join a supported game, and load Starry 💫
 3. Once asked for the key, paste the key you copied into the text box, then press `Enter`
@@ -25,7 +25,7 @@ loadstring(game:HttpGet("https://www.cloudbin.org"))()
 
 ### Community 🌐
 
-Join our community of over 1,600 users, [over on Discord](https://discord.gg/XJMpTcyaUY)!
+Join our community of over 1,700+ users, [over on Discord](https://discord.gg/XJMpTcyaUY)!
 
 - With benefits like:
 - - Latest Key Access 🔑
