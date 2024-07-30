@@ -40,6 +40,7 @@ Join our community of over 1,600 users, [over on Discord](https://discord.gg/XJM
 
 ### Extra Credits
 
+* **[Mia](https://github.com/xNasuni) (@xNasuni)**: Security help, revamped key system and encryption
 * **[Jimmy](https://github.com/tropxzz) (@imanewma__n)**: Ideaist, little help on Break In 2
 * **[DivinePaean](https://github.com/lettercount) (@kawaii_innitnotfound)**: Ideaist for Tower of Hell
 * **[Dawid](https://github.com/dawid-scripts)**: UI library, view his official repository: [dawid-scripts/Fluent](https://github.com/dawid-scripts/Fluent)
