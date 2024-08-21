@@ -61,6 +61,6 @@ Join our community of over 2,000+ users, [over on Discord](https://discord.gg/XJ
 
 ### Upcoming Changes
 
-1. More Exploits
-- - Coming with Key-related fixes
-  - Changes Started on: **August 14th**
+1. More Content
+- - Fixing Delta support
+  - TONS of new Murder Mystery 2 features!
