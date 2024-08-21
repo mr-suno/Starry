@@ -18,6 +18,8 @@ local LocalPlayer = Players.LocalPlayer
 
 if string.find(string.lower(identifyexecutor()), "celery") then
     LocalPlayer:Kick("Celery doesn't have Luarmor support! Please use an alternative executor.")
+elseif string.find(string.lower(identifyexecutor()), "delta") then
+    LocalPlayer:Kick("Delta is not supported right now with Starry! Please use an alternative executor.")
 end
 
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/089e8f5b8ac259500a44ccd0537ab253.lua"))()
