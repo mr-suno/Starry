@@ -23,6 +23,17 @@ Copy and paste the script below in your executor to get started with Starry!
 loadstring(game:HttpGet("https://www.cloudbin.org"))()
 ```
 
+### BETA ⚙️
+
+Use the preview version, which could contain bugs or glitches.
+- However, this version typically contains more features, and BETA features!
+
+```lua
+loadstring(game:HttpGet(
+  "https://github.com/mr-suno/Starry/blob/main/version/preview.lua?raw=true"
+))()
+```
+
 ### Community 🌐
 
 Join our community of over 2,000+ users, [over on Discord](https://discord.gg/XJMpTcyaUY)!
