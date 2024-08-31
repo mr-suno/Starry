@@ -13,13 +13,17 @@
 
 ]]
 
-local Players = game:GetService("Players")
-local LocalPlayer = Players.LocalPlayer
+local players = game:GetService("Players")
+local localPlayer = players.LocalPlayer
 
-if string.find(string.lower(identifyexecutor()), "celery") then
-    LocalPlayer:Kick("Celery doesn't have Luarmor support! Please use an alternative executor.")
-elseif string.find(string.lower(identifyexecutor()), "delta") then
-    LocalPlayer:Kick("Delta is not supported right now with Starry! Please use an alternative executor.")
+local getName = string.lower(identifyexecutor())
+
+if string.find(getName, "celery") then
+    localPlayer:Kick("Celery is not supported with Starry! Please use a different executor.")
+elseif string.find(getName, "delta") then
+    localPlayer:Kick("Delta is currently being fixed with Starry! Please use a different executor.")
+elseif string.find(getName, "appleware") then
+    localPlayer:Kick("AppleWare is currently being fixed with Starry! Please use a different executor.")
 end
 
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/089e8f5b8ac259500a44ccd0537ab253.lua"))()
