@@ -49,9 +49,3 @@ Join our community of over 2,000+ users, [over on Discord](https://discord.gg/XJ
 - - **Tower of Hell** ─ 160+ Server Sided features.
   - **Break In 2** ─ 30 Insane features.
   - **Murder Mystery 2** ─ 50+ Exclusive & Powerful features.
-
-### Upcoming Changes
-
-1. More Content
-- - Fixing Delta support
-  - TONS of new Murder Mystery 2 features!
