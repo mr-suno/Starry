@@ -6,15 +6,6 @@
   Star our repository to support our project, it helps me post future updates
 </div>
 
-### Key System 🔑
-
-1. Join our official [Discord server](https://discord.gg/DDtKW3zF45)
-- - Find `#latest-key`, or click [here](https://discord.com/channels/1217389490663063583/1220620564163461171) and complete `1` ad.
-
-2. Join a supported game, and load Starry 💫
-3. Once asked for the key, paste the key you copied into the text box, then press `Enter`
-- - The key refreshes every **24 hours**, you'll have to do this later
-
 ### Usage 👋
 
 Copy and paste the script below in your executor to get started with Starry!
@@ -28,8 +19,8 @@ loadstring(game:HttpGet("https://www.cloudbin.org"))()
 Join our community of over 2,000+ users, [over on Discord](https://discord.gg/XJMpTcyaUY)!
 
 - With benefits like:
-- - Latest Key Access 🔑
   - Immedient Updates & News 📢
+  - BETA & Preview access 🐛
   - Bug Reporting & More!
 
 ---
@@ -40,7 +31,7 @@ Join our community of over 2,000+ users, [over on Discord](https://discord.gg/XJ
 
 ### Extra Credits
 
-* **[Mia](https://github.com/xNasuni) (@xNasuni)**: Security help, revamped key system and encryption
+* **[Mia](https://github.com/xNasuni) (@xNasuni)**: Previous security help, revamped key system and encryption
 * **[Jimmy](https://github.com/tropxzz) (@imanewma__n)**: Ideaist, little help on Break In 2
 * **[DivinePaean](https://github.com/lettercount) (@kawaii_innitnotfound)**: Ideaist for Tower of Hell
 * **[Dawid](https://github.com/dawid-scripts)**: UI library, view his official repository: [dawid-scripts/Fluent](https://github.com/dawid-scripts/Fluent)
